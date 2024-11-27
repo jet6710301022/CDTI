@@ -26,3 +26,10 @@ print(p3.name)
 print(p3.lname)
 print(p3.age)
 
+p4 = Person("Mr." , " Arbet  " , " Buadoktoom " , 20)
+
+print(p4.prename)
+print(p4.name)
+print(p4.lname)
+print(p4.age)
+
