@@ -19,3 +19,10 @@ print(p2.name)
 print(p2.lname)
 print(p2.age)
 
+p3 = Person("Mr." , " jet  " , " - " , 19)
+
+print(p3.prename)
+print(p3.name)
+print(p3.lname)
+print(p3.age)
+
